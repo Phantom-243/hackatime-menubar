@@ -1,7 +1,7 @@
 # HackatimeBar
 
 A native menubar app for mac which runs cleanly in your menubar, displaying live stats, goals, and estimated stardust from Hackatime.
-
+![What it looks like](<Screenshot 2026-09-05 at 3.57.55 PM.png>)
 
 ## Features
 
@@ -22,6 +22,7 @@ Literally nothing required, just your plain vanilla mac:
 2: Download HackatimeBar.dmg
 3: Open the .dmg and drag HackatimeBar into your Applications folder.
 4: Launch the app from Applications or Spotlight like any other mac app!
+**If ur mac says the app is unsafe:** Go to settings, privacy & security, scroll down and click on open anyways, then enter ur password or use fingerprint
 
 
 ## Option 2: Run from Source
